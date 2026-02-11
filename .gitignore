@@ -1,0 +1,8 @@
+.env
+__pycache__/
+venv/
+*.pyc
+find_models.py
+test_api.py
+startup.sh
+
